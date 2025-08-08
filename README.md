@@ -1,14 +1,14 @@
-# 📂 Portfólio de Chamados Técnicos – Suporte & QA
+# 📂 Portfólio de Chamados Técnicos – Suporte
 
 Este repositório contém **15 exemplos completos de chamados técnicos** simulados, elaborados para demonstrar habilidades em:
 
 - Registro detalhado de incidentes e problemas.
 - Comunicação clara e técnica.
-- Boas práticas de QA e suporte.
+- Boas práticas de suporte.
 - Documentação visual com imagens.
 - Estruturação lógica para facilitar triagem e resolução.
 
-Cada chamado segue um **padrão rico em detalhes**, simulando cenários reais de atendimento de suporte técnico e QA.
+Cada chamado segue um **padrão rico em detalhes**, simulando cenários reais de atendimento de suporte técnico.
 
 ---
 
